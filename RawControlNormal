@@ -1,18 +1,18 @@
 TemporaryOpen|1
 _Message|Temporary Version is Closed, Download The Premium Version To Play!
-DownloadFileFromAuth|1
+DownloadFileFromAuth|0
 #api#|https://prod.keyauth.com/
 api|https://keyauth.win/api/1.2/
 #keyauth.win/api
 
-PostAPI|https://raw-control.vercel.app/vars
+PostAPI|https://meta.vaccat.xyz
 PostAddress|/growtopia/server_data.php
 FpsOffset|29828860
 FpsPattern|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? ?
 OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
 searchOffsetWithPattern|1
-ProxyServer|
-ProxyServerPort|
+ProxyServer|195.62.48.50
+ProxyServerPort|1234
 discord|discord.gg/jne56ZqfQt
 discordme|`b[`9discord.gg/jne56ZqfQt``]``
 GrowtopiaIP|213.179.209.175
@@ -120,6 +120,3 @@ teamhuf|HUFGG132
 teamrud|RUDGT50
 teamlia|LIASTYLE
 teameuro|EUROWOW
-
-
-
