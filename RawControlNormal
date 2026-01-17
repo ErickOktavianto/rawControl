@@ -5,7 +5,7 @@ DownloadFileFromAuth|0
 api|https://keyauth.win/api/1.2/
 #keyauth.win/api
 
-PostAPI|https://meta.vaccat.xyz
+PostAPI|https://raw-control.vercel.app/vars
 PostAddress|/growtopia/server_data.php
 FpsOffset|29828860
 FpsPattern|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? ?
@@ -120,4 +120,5 @@ teamhuf|HUFGG132
 teamrud|RUDGT50
 teamlia|LIASTYLE
 teameuro|EUROWOW
+
 
