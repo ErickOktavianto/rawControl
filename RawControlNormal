@@ -1,6 +1,6 @@
 TemporaryOpen|1
 _Message|Temporary Version is Closed, Download The Premium Version To Play!
-DownloadFileFromAuth|0
+DownloadFileFromAuth|1
 #api#|https://prod.keyauth.com/
 api|https://keyauth.win/api/1.2/
 #keyauth.win/api
@@ -120,5 +120,6 @@ teamhuf|HUFGG132
 teamrud|RUDGT50
 teamlia|LIASTYLE
 teameuro|EUROWOW
+
 
 
