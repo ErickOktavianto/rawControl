@@ -115,7 +115,8 @@ AddModsList|36299549|`#@Moniuet
 customCommand1|/belink
 customCommand2|/pkp
 customCommand3|/tipage
-delayMinimum|5
+delayMinimum|20
+Tes
 
 
 LoginMessage1|Welcome to `4Immortal Proxy``, Checking Server Status Please Wait....``
@@ -127,6 +128,7 @@ teamhuf|HUFGG132
 teamrud|RUDGT50
 teamlia|LIASTYLE
 teameuro|EUROWOW
+
 
 
 
