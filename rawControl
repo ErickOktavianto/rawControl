@@ -119,6 +119,8 @@ delayMinimum|5
 delayNow|1
 LockProxy|false
 
+OAuthLinkLegacy|https://login.growtopiagame.com/player/growid/login?token=yfLGW5OgqzW18LvW0rHWeR7M%2FZabQaTnLBwV0E6uyjdUDzGO4HID08xNcN%2FHyXC%2BODNKeCzJfRv8blb%2BDUw6mBmC73GDX4DdWZGToYymNosSQYGl7MphkPVcsF4YjFKYhItx6HkOUiCPcoiYLGY2RgkEKX9Czj6saL6B9fW5t%2BQYbrZTMagI%2BQ4wlzyixwMhhAuB29hSzfEEltqJDDIE0wck%2Fo7AwGjF%2FThdPzcSbVZJEVwiBQlKoGideRvSxD1NGgXTX%2FaTK9hTLYMdLV%2F%2BftfElZuROOb9esaKqyKG6P%2BwFgtipNNbt2tblzpuUHTESGe3qqXSFFnFfhIbemhWnc2d6DNVkOEfOXsAmaory2k0rSmfNvKQhcxIu7kic4ZjM6Vhx74d2%2Fh8PIov0ZmnKgSxxuVRWfZlp%2BaThVQb1P6sKTS5iZpXagJjeAcHGlkaomM%2FQ7YnAor%2FtZ2tr%2BlqpXGKAP6HrCfP499RL9YDNOybHYM2H%2F2bpwGLBCyz32Bz6tcrHzO09%2BfV0SJHighT4ASp9nrmz9dzn7%2FhbQnWPSPLholMT7uAkgUklyaKRo9q
+
 LoginMessage1|Welcome to `4Immortal Proxy``, Checking Server Status Please Wait....``
 LoginMessage4|Server Status : `2Not Shadowban / `3If Stuck Here Its Bad Server Try To Reconnecting...``, Enjoy Gesss``
 LoginMessage5|
