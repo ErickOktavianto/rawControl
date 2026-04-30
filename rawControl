@@ -118,7 +118,7 @@ customCommand3|/tipage
 delayMinimum|5
 delayNow|1
 LockProxy|true
-Mines|2
+Mines|1
 MinOn|1
 
 
