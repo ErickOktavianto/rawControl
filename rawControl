@@ -97,6 +97,7 @@ server_data_End
 
 GazzetteStart
 add_spacer|small
+add_image_button|banner_open_link_|interface/Banner.rttex|bannerlayout|||
 add_spacer|small
 add_textbox|`2Enjoy `9the proxy made by `4Rick And Bry``|left|2480|
 add_spacer|small
