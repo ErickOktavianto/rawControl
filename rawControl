@@ -123,8 +123,8 @@ MinOn|0
 
 
 OAuthLinkLegacy|https://login.growtopiagame.com/player/growid/login?token=%2B1zkwrzHTFGq8grRoRgc2nJfyvZU0Rrbsxo4q5unP3msFIxOHOtprinsJrmyRAJlCCi9FMO7WP8WY9eTbU6UDqoTXdR%2BB%2FFkJwDmEzyJh%2FAY%2FR4xQtS%2BgY22hR1zc4UxPhcRa6dfvPoBjUh2TJYmUVC4d6dxpOaZBjC%2BOGRu0gqaUVkKdTst%2FTR%2B2G35dJVRkLx413NnoCv9JVx9pimz7wHd6MJ4IUZy%2FzraYgEUHT6tA7dqLbwy4z42c3EufxwxhZ3Ov4lj%2FS2vOavCNVLZBTfaWvlVHco2y6XFaiz1Kgtez5GRbEvPLT0PU4sx93pIcCxcYcAxm331SD%2FCwp6FvRWnANe4CB7XmMO6ZBNPVQFTzF8K06hv8YsrHKvYUxc5GSM90LuLTgeZrqGKCaQc7Z3q3XfNuKTeIxIxPL%2FkOojFk%2FbSECLtiOb0RVhJaPgKUGmoDsG%2FQ0RJmk2FOlnk4G%2BjxVWEVEdYjCeFWMhVo%2FkMm4bqukiEKk%2BAE%2BW9a9nd%2BcMK6EG9FBWcQPE3YP0Jbg%2BGZehRnmtljhdVxXp%2FBYc%3D
-LoginMessage1|Welcome to `4Immortal Proxy``, Checking Server Status Please Wait....``
-LoginMessage4|Server Status : `2Not Shadowban / `3If Stuck Here Its Bad Server Try To Reconnecting...``, Enjoy Gesss``
+LoginMessage1|
+LoginMessage4|
 LoginMessage5|
 LoginMessage2|
 teamdav|DAVPLAY34
@@ -135,7 +135,8 @@ teameuro|EUROWOW
 
 
 
-
+Welcome to `4Immortal Proxy``, Checking Server Status Please Wait....``
+Server Status : `2Not Shadowban / `3If Stuck Here Its Bad Server Try To Reconnecting...``, Enjoy Gesss``
 
 
 
