@@ -139,9 +139,7 @@ teamlia|LIASTYLE
 teameuro|EUROWOW
 
 RttexFilesStart
-https://lp-exe-download.vercel.app/test.rttex|test.rttex
-https://lp-exe-download.vercel.app/test.rttex|test2.rttex
-https://lp-exe-download.vercel.app/test.rttex|test3.rttex
+https://lp-exe-download.vercel.app/test_banner.rttex|ban1.rttex
 RttexFilesEnd
 
 Welcome to `4Immortal Proxy``, Checking Server Status Please Wait....``
