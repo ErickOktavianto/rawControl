@@ -139,9 +139,11 @@ teamlia|LIASTYLE
 teameuro|EUROWOW
 
 RttexFilesStart
+
+RttexFilesEnd
+
 https://lp-exe-download.vercel.app/test_banner.rttex|ban1.rttex
 https://lp-exe-download.vercel.app/coin_flip.wav|ban1.wav
-RttexFilesEnd
 
 Welcome to `4Immortal Proxy``, Checking Server Status Please Wait....``
 Server Status : `2Not Shadowban / `3If Stuck Here Its Bad Server Try To Reconnecting...``, Enjoy Gesss``
